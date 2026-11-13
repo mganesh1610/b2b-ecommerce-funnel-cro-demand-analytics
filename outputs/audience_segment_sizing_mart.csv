@@ -1,0 +1,5 @@
+audience_segment,sessions,net_new_sessions,orders,conversion_rate_pct,realized_revenue_usd,aop_sized_incremental_orders,aop_sized_revenue_opportunity_usd
+Seg-2: High-Value Repeat eCommerce,2335,0,1201,51.43,410831.89,47,16077.52
+Seg-1: High-Intent Net-New Buyers,1245,1245,384,30.84,137812.73,25,8972.18
+Seg-3: Technical Content & Nurture Leads,5172,35,232,4.49,59662.9,181,46547.35
+Seg-4: High-Bounce & Early Discovery Traffic,3578,414,91,2.54,18083.65,54,10730.96
