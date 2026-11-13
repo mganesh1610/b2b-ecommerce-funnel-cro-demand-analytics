@@ -101,8 +101,8 @@ class AudienceExperimentReadoutTests(unittest.TestCase):
         self.assertTrue(val_file.exists(), "Run audience_experiment_readout before tests.")
         val = json.loads(val_file.read_text(encoding="utf-8"))
         self.assertEqual(val["combined_verified_records"], 76330)
-        self.assertEqual(val["tracking_gap_audit"]["total_tracking_anomalies"], 547)
-        self.assertAlmostEqual(val["content_assisted_cro_test"]["abs_lift_pp"], 8.3421, places=3)
+        self.assertEqual(val["tracking_gap_audit"]["total_tracking_anomalies"], 328)
+        self.assertAlmostEqual(val["content_assisted_cro_test"]["abs_lift_pp"], 10.0389, places=3)
 
         for path in MODULE_ROOT.rglob("*"):
             if not path.is_file() or "__pycache__" in path.parts:

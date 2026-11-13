@@ -4,9 +4,9 @@ Extends `b2b-ecommerce-funnel-cro-demand-analytics` with recurring Mode/Tableau-
 
 ## Verified Results
 
-- **Combined Verified Records:** **76,330** (`12,330` UCI Online Shoppers web sessions + `64,000` Kevin Hillstrom MineThatData campaign assignments) with `100%` cohort session conservation.
-- **Content-Assisted Funnel Lift:** **+8.34 pp** conversion lift (`23.68%` vs. `15.34%`, $Z = 9.7882$).
-- **Telemetry Tracking-Gap Audit:** Isolated **547** instrumentation anomalies (`280` UTM drift sessions, `173` bounce-exceeds-exit defects, `91` high-intent checkout drop-offs, `3` zero-duration order-tag gaps).
+- **Combined Verified Records:** **76,330** (`12,330` UCI Online Shoppers web sessions + `64,000` Kevin Hillstrom MineThatData campaign assignments) across **121** cohort slices with `100%` cohort session conservation.
+- **Content-Assisted Funnel Lift:** **+10.04 pp** conversion lift (`23.37%` vs. `13.33%`, $Z = 12.6088$).
+- **Telemetry Tracking-Gap Audit:** Isolated **328** strict cohort instrumentation anomalies (`175` bounce-exceeds-exit defects, `128` UTM drift sessions, `22` high-intent checkout drop-offs, `3` zero-duration order-tag gaps).
 
 ## Quick Reproduction
 
