@@ -1,0 +1,122 @@
+month_name,visitor_type,channel_name,sessions,month_traffic_share_pct,engaged_leads,visit_to_lead_pct,completed_orders,visit_to_order_cvr_pct,content_assisted_sessions,content_assisted_orders,avg_bounce_rate,avg_exit_rate
+Nov,Returning_Visitor,SEO / GEO Organic,1075,35.86,1052,97.86,332,30.88,423,164,0.01017,0.02763
+Mar,Returning_Visitor,Paid Search,777,40.74,667,85.84,43,5.53,107,16,0.03352,0.05989
+May,Returning_Visitor,Paid Social,747,22.21,657,87.95,48,6.43,106,18,0.04105,0.06577
+Nov,Returning_Visitor,Paid Search,667,22.25,613,91.9,152,22.79,164,65,0.02781,0.0491
+May,Returning_Visitor,Email Marketing,654,19.44,623,95.26,81,12.39,158,32,0.01787,0.0393
+May,Returning_Visitor,SEO / GEO Organic,595,17.69,569,95.63,75,12.61,153,26,0.0138,0.03362
+Dec,Returning_Visitor,SEO / GEO Organic,578,33.47,559,96.71,68,11.76,178,17,0.00969,0.03098
+May,Returning_Visitor,eCommerce Direct,560,16.65,508,90.71,34,6.07,97,14,0.042,0.06544
+Nov,Returning_Visitor,Paid Social,480,16.01,442,92.08,99,20.63,74,23,0.02576,0.04724
+Dec,Returning_Visitor,Paid Search,474,27.45,418,88.19,45,9.49,84,8,0.03015,0.05084
+Mar,Returning_Visitor,SEO / GEO Organic,470,24.65,455,96.81,87,18.51,140,42,0.00706,0.02633
+May,Returning_Visitor,Paid Search,428,12.72,382,89.25,29,6.78,62,6,0.03131,0.05655
+Mar,Returning_Visitor,Paid Social,330,17.3,285,86.36,15,4.55,27,3,0.02947,0.05519
+Nov,New_Visitor,SEO / GEO Organic,329,10.97,320,97.26,103,31.31,40,11,0.00578,0.02232
+Nov,Returning_Visitor,eCommerce Direct,291,9.71,262,90.03,38,13.06,61,15,0.03873,0.05769
+Dec,New_Visitor,SEO / GEO Organic,288,16.68,279,96.88,66,22.92,41,15,0.0052,0.02344
+Mar,New_Visitor,SEO / GEO Organic,178,9.33,177,99.44,29,16.29,45,6,0.00175,0.01467
+Dec,Returning_Visitor,Paid Social,155,8.98,136,87.74,6,3.87,18,0,0.03775,0.06158
+Oct,Returning_Visitor,SEO / GEO Organic,133,24.23,132,99.25,35,26.32,30,7,0.00576,0.02021
+May,New_Visitor,SEO / GEO Organic,131,3.89,130,99.24,43,32.82,31,10,0.00258,0.01511
+Jul,Returning_Visitor,Paid Search,129,29.86,118,91.47,20,15.5,28,10,0.03388,0.05527
+Dec,Returning_Visitor,eCommerce Direct,118,6.83,97,82.2,7,5.93,16,4,0.04141,0.06633
+Aug,Returning_Visitor,Paid Search,102,23.56,96,94.12,14,13.73,22,3,0.02319,0.04292
+Oct,Returning_Visitor,Paid Search,99,18.03,97,97.98,16,16.16,27,7,0.01968,0.04038
+Sep,Returning_Visitor,Paid Search,99,22.1,93,93.94,15,15.15,19,3,0.02228,0.04349
+Sep,Returning_Visitor,SEO / GEO Organic,97,21.65,94,96.91,24,24.74,28,7,0.00854,0.02758
+Feb,Returning_Visitor,Paid Social,92,50.0,64,69.57,0,0.0,5,0,0.0538,0.08435
+Jul,Returning_Visitor,Email Marketing,77,17.82,73,94.81,18,23.38,18,9,0.01917,0.03915
+Oct,New_Visitor,SEO / GEO Organic,73,13.3,71,97.26,18,24.66,14,0,0.00102,0.0147
+Aug,Returning_Visitor,SEO / GEO Organic,71,16.4,69,97.18,15,21.13,25,5,0.01143,0.02787
+Aug,Returning_Visitor,Paid Social,69,15.94,65,94.2,7,10.14,12,0,0.02599,0.05128
+Aug,Returning_Visitor,Email Marketing,66,15.24,63,95.45,12,18.18,23,5,0.01565,0.0333
+June,Returning_Visitor,Paid Social,65,22.57,59,90.77,3,4.62,10,0,0.03799,0.06482
+May,New_Visitor,Paid Social,65,1.93,58,89.23,10,15.38,10,2,0.01811,0.03457
+Jul,Returning_Visitor,Paid Social,64,14.81,63,98.44,4,6.25,17,1,0.02919,0.05334
+Oct,Returning_Visitor,eCommerce Direct,62,11.29,61,98.39,20,32.26,21,8,0.02222,0.0403
+June,Returning_Visitor,Paid Search,61,21.18,54,88.52,5,8.2,8,1,0.03492,0.06286
+May,New_Visitor,Email Marketing,61,1.81,61,100.0,24,39.34,11,4,0.00186,0.01423
+May,Returning_Visitor,Marketplaces & Syndication,61,1.81,55,90.16,10,16.39,16,3,0.01944,0.03895
+Oct,Returning_Visitor,Paid Social,60,10.93,59,98.33,7,11.67,18,1,0.01397,0.03334
+Mar,Returning_Visitor,eCommerce Direct,58,3.04,54,93.1,4,6.9,10,2,0.01523,0.04385
+Jul,Returning_Visitor,SEO / GEO Organic,52,12.04,51,98.08,10,19.23,18,4,0.0089,0.02584
+June,Returning_Visitor,SEO / GEO Organic,51,17.71,49,96.08,7,13.73,21,1,0.01682,0.03639
+Jul,Returning_Visitor,eCommerce Direct,50,11.57,46,92.0,2,4.0,9,1,0.04447,0.06845
+Sep,Returning_Visitor,Email Marketing,50,11.16,49,98.0,8,16.0,10,1,0.01236,0.02751
+Oct,Returning_Visitor,Email Marketing,48,8.74,48,100.0,7,14.58,8,1,0.0117,0.03107
+Dec,Other,eCommerce Direct,47,2.72,41,87.23,13,27.66,3,1,0.02159,0.04134
+Sep,New_Visitor,SEO / GEO Organic,47,10.49,47,100.0,11,23.4,6,1,0.00062,0.01342
+May,New_Visitor,Marketplaces & Syndication,45,1.34,44,97.78,9,20.0,11,3,0.00035,0.01921
+Aug,Returning_Visitor,eCommerce Direct,41,9.47,39,95.12,3,7.32,9,0,0.03527,0.05984
+June,Returning_Visitor,eCommerce Direct,41,14.24,34,82.93,2,4.88,6,0,0.07207,0.08963
+Nov,New_Visitor,Paid Social,41,1.37,40,97.56,8,19.51,0,0,0.00856,0.02467
+Sep,Returning_Visitor,Paid Social,40,8.93,40,100.0,6,15.0,8,1,0.0189,0.04077
+Sep,Returning_Visitor,eCommerce Direct,36,8.04,35,97.22,4,11.11,11,0,0.02428,0.04231
+Mar,Returning_Visitor,Email Marketing,33,1.73,26,78.79,4,12.12,5,3,0.03252,0.05238
+Feb,Returning_Visitor,Paid Search,32,17.39,27,84.38,1,3.13,3,0,0.05002,0.07211
+June,Returning_Visitor,Email Marketing,32,11.11,29,90.63,2,6.25,6,2,0.03415,0.06498
+Sep,New_Visitor,Marketplaces & Syndication,32,7.14,30,93.75,9,28.13,8,1,0.00069,0.01929
+Aug,New_Visitor,SEO / GEO Organic,29,6.7,29,100.0,9,31.03,3,0,0.0007,0.01119
+Nov,Returning_Visitor,Email Marketing,29,0.97,29,100.0,3,10.34,5,0,0.00694,0.02125
+Mar,New_Visitor,Paid Social,28,1.47,28,100.0,3,10.71,2,0,0.00134,0.01429
+Feb,Returning_Visitor,SEO / GEO Organic,27,14.67,20,74.07,1,3.7,0,0,0.04605,0.07209
+Jul,New_Visitor,SEO / GEO Organic,24,5.56,24,100.0,6,25.0,6,0,0.00118,0.01399
+Feb,Returning_Visitor,Email Marketing,23,12.5,19,82.61,1,4.35,0,0,0.02696,0.04714
+Oct,Returning_Visitor,Marketplaces & Syndication,23,4.19,20,86.96,2,8.7,5,0,0.01851,0.03608
+Dec,New_Visitor,Paid Social,21,1.22,19,90.48,3,14.29,1,1,0.02657,0.04587
+Aug,New_Visitor,Marketplaces & Syndication,20,4.62,20,100.0,7,35.0,0,0,0.004,0.02021
+Nov,New_Visitor,eCommerce Direct,19,0.63,18,94.74,6,31.58,1,1,0.01134,0.02413
+Oct,New_Visitor,Marketplaces & Syndication,19,3.46,18,94.74,5,26.32,5,1,0.00035,0.02325
+Sep,Returning_Visitor,Marketplaces & Syndication,18,4.02,18,100.0,1,5.56,6,1,0.00587,0.02711
+Nov,New_Visitor,Marketplaces & Syndication,17,0.57,16,94.12,7,41.18,2,1,0.00131,0.02104
+Nov,Returning_Visitor,Marketplaces & Syndication,15,0.5,15,100.0,5,33.33,3,0,0.00633,0.02099
+Dec,New_Visitor,Paid Search,14,0.81,12,85.71,2,14.29,2,0,0.00068,0.01854
+Mar,New_Visitor,Paid Search,14,0.73,14,100.0,4,28.57,2,1,0.0003,0.01148
+June,New_Visitor,SEO / GEO Organic,13,4.51,13,100.0,3,23.08,5,1,0.00221,0.01109
+May,New_Visitor,eCommerce Direct,13,0.39,13,100.0,1,7.69,2,0,0.0033,0.02028
+Aug,Returning_Visitor,Marketplaces & Syndication,12,2.77,11,91.67,4,33.33,5,3,0.00772,0.03605
+Jul,New_Visitor,Marketplaces & Syndication,12,2.78,11,91.67,1,8.33,2,1,0.01192,0.03508
+Oct,New_Visitor,Paid Social,12,2.19,11,91.67,3,25.0,1,0,0.01778,0.02348
+Dec,New_Visitor,eCommerce Direct,11,0.64,10,90.91,4,36.36,0,0,0.02442,0.04338
+Nov,New_Visitor,Paid Search,10,0.33,7,70.0,3,30.0,2,1,0.0433,0.05481
+Sep,New_Visitor,Paid Social,10,2.23,10,100.0,2,20.0,2,0,0.00042,0.007
+Aug,New_Visitor,Email Marketing,9,2.08,9,100.0,3,33.33,2,1,0.0037,0.01175
+Jul,New_Visitor,Email Marketing,9,2.08,9,100.0,2,22.22,1,0,0.00593,0.02044
+Mar,New_Visitor,Email Marketing,9,0.47,9,100.0,0,0.0,0,0,0.0037,0.01967
+Oct,New_Visitor,eCommerce Direct,9,1.64,9,100.0,0,0.0,0,0,0.00222,0.02217
+Sep,New_Visitor,Email Marketing,8,1.79,8,100.0,2,25.0,2,0,0.0,0.01272
+Dec,Other,SEO / GEO Organic,7,0.41,6,85.71,0,0.0,1,0,0.02857,0.06328
+June,New_Visitor,Marketplaces & Syndication,7,2.43,7,100.0,2,28.57,1,0,0.00551,0.01286
+June,Returning_Visitor,Marketplaces & Syndication,7,2.43,6,85.71,3,42.86,2,1,0.03107,0.05755
+Mar,Returning_Visitor,Marketplaces & Syndication,7,0.37,7,100.0,3,42.86,4,3,0.00035,0.03219
+Nov,Other,eCommerce Direct,7,0.23,6,85.71,1,14.29,1,0,0.02857,0.04674
+Oct,New_Visitor,Email Marketing,7,1.28,7,100.0,1,14.29,0,0,0.00317,0.01735
+Aug,New_Visitor,Paid Social,6,1.39,6,100.0,1,16.67,0,0,0.00159,0.03221
+Jul,Returning_Visitor,Marketplaces & Syndication,6,1.39,6,100.0,1,16.67,0,0,0.00573,0.03004
+Nov,Other,Paid Search,6,0.2,1,16.67,0,0.0,0,0,0.16667,0.17778
+Sep,New_Visitor,Paid Search,6,1.34,6,100.0,0,0.0,2,0,0.0,0.01076
+Dec,Returning_Visitor,Marketplaces & Syndication,5,0.29,5,100.0,2,40.0,1,1,0.00449,0.01724
+Feb,Returning_Visitor,Marketplaces & Syndication,5,2.72,4,80.0,0,0.0,1,0,0.04762,0.0819
+Nov,Other,SEO / GEO Organic,5,0.17,5,100.0,1,20.0,1,1,0.00174,0.03382
+Sep,New_Visitor,eCommerce Direct,5,1.12,4,80.0,4,80.0,0,0,0.00286,0.02032
+Aug,New_Visitor,Paid Search,4,0.92,3,75.0,0,0.0,2,0,0.05,0.06363
+Aug,New_Visitor,eCommerce Direct,4,0.92,4,100.0,1,25.0,1,0,0.0,0.0186
+Dec,Other,Paid Search,4,0.23,0,0.0,0,0.0,0,0,0.15,0.175
+Dec,Other,Paid Social,4,0.23,2,50.0,0,0.0,0,0,0.0,0.075
+Feb,Returning_Visitor,eCommerce Direct,4,2.17,4,100.0,0,0.0,1,0,0.0,0.03005
+Jul,New_Visitor,Paid Social,4,0.93,4,100.0,0,0.0,1,0,0.0,0.00803
+June,New_Visitor,Paid Social,4,1.39,4,100.0,1,25.0,2,0,0.01667,0.04128
+May,New_Visitor,Paid Search,4,0.12,4,100.0,1,25.0,1,1,0.00556,0.01082
+Nov,Other,Paid Social,4,0.13,2,50.0,1,25.0,0,0,0.05,0.09244
+Oct,New_Visitor,Paid Search,4,0.73,3,75.0,1,25.0,0,0,0.0625,0.07583
+Jul,New_Visitor,eCommerce Direct,3,0.69,3,100.0,2,66.67,0,0,0.0,0.0239
+June,New_Visitor,Email Marketing,3,1.04,2,66.67,0,0.0,1,0,0.06667,0.06974
+June,New_Visitor,Paid Search,3,1.04,3,100.0,1,33.33,0,0,0.0,0.01292
+Nov,New_Visitor,Email Marketing,3,0.1,3,100.0,1,33.33,0,0,0.0,0.0089
+Jul,New_Visitor,Paid Search,2,0.46,2,100.0,0,0.0,1,0,0.0,0.01637
+Mar,New_Visitor,Marketplaces & Syndication,2,0.1,2,100.0,0,0.0,0,0,0.0,0.008
+Dec,New_Visitor,Marketplaces & Syndication,1,0.06,1,100.0,0,0.0,0,0,0.0,0.03571
+Feb,New_Visitor,Marketplaces & Syndication,1,0.54,1,100.0,0,0.0,0,0,0.0,0.01538
+June,Other,Marketplaces & Syndication,1,0.35,1,100.0,0,0.0,1,0,0.05336,0.06616
+Mar,New_Visitor,eCommerce Direct,1,0.05,1,100.0,0,0.0,0,0,0.0,0.06667

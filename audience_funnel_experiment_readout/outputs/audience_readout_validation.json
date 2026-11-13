@@ -1,0 +1,30 @@
+{
+  "uci_online_shoppers_sessions": 12330,
+  "hillstrom_campaign_journeys": 64000,
+  "combined_verified_records": 76330,
+  "cohort_rows_materialized": 121,
+  "cohort_session_conservation_ok": true,
+  "content_assisted_cro_test": {
+    "treatment_n": 2623,
+    "treatment_orders": 613,
+    "treatment_cvr_pct": 23.3702,
+    "control_n": 9669,
+    "control_orders": 1289,
+    "control_cvr_pct": 13.3313,
+    "abs_lift_pp": 10.0389,
+    "z_stat": 12.6088,
+    "p_value": 1.887427e-36
+  },
+  "tracking_gap_audit": {
+    "bounce_exceeds_exit_anomalies": 175,
+    "zero_duration_order_tag_gaps": 3,
+    "utm_taxonomy_drift_sessions": 128,
+    "high_intent_checkout_dropoffs": 22,
+    "total_tracking_anomalies": 328
+  },
+  "power_plan_mde_025pp": {
+    "required_n_per_arm": 17399,
+    "observed_control_n": 21306,
+    "adequately_powered": true
+  }
+}
